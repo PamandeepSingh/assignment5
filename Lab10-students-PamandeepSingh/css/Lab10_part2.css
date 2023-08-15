@@ -1,0 +1,9 @@
+body{
+    margin: 0 100px;
+    overflow: hidden;
+}
+img{            	
+    visibility: hidden;
+    height: 60;
+    width: 97;
+}
